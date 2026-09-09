@@ -62,5 +62,5 @@ Untuk menjelajahi langit digital, ini adalah beberapa peralatan utama yang serin
 
 <div align="center">
   <p><i>"Stay curious, keep building, and let’s make the internet a cooler place!"</i> ✈️✨</p>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=20B2AA&style=flat-square&label=Visitors" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Ashidq&color=20B2AA&style=flat-square&label=Visitors" alt="Visitor Count" />
 </div>
