@@ -5,13 +5,81 @@
     <td valign="top">
       <pre>
 <font color="#20B2AA">
-       .---.
-     /   &lt;/&gt;   \
-    (  (o) (o)  )
-    /  (__O__)  \
-   |  [===]  |
-   \  `---'  /
-    `-------'
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                         hhhhh      hhhhh                                                         
+                                                        ollllllloolllllllo                                                        
+                                                      hllllllllllllllllllllh                                                      
+                                                     hllllllllllllllllllllllh                                                     
+                                                    hllllllllllllllllllllllllh                                                    
+                                                    alllllllllllllllllllllllla                                                    
+                                                    llllllllllllllllllllllllll                                                    
+                                                   allllllllllllllllllllllllll.                                                   
+                                                   .llllllllllllllllllllllllll.                                                   
+                                                   llllllllllllllllllllllllllll                                                   
+                                                   llllllllllllllllllllllllllll                                                   
+                                                  hlllllllllllllllllllllllllllls                                                  
+                                                  gllllllllllllllllllllllllllllg                                                  
+                                                  gllllllllllllllllllllllllllllg                                                  
+                                                  ggllllllllllllllllllllllllllgg                                                  
+                                                all aolllllllllllllllllllllll. llah                                               
+                                              allllh   ggllllllllllllllllgg    lllla                                              
+                                             .llllls         sgoooogs          lllll.                                             
+                                             llllllo                          .llllll                                             
+                                            hlllllllog                      .ollllllls                                            
+                                             llllllllllo..h            h..ollllllllll                                             
+                                             slllllllllllllllllllllllllllllllllllllls                                             
+                                               gllllllllllllllllllllllllllllllllllg                                               
+                                                 ollllllllllllllllllllllllllllllo                                                 
+                                                   hallllllllllllllllllllllllah                                                   
+                                                       hsss.llllllllll.sssh                                                       
+                                                        aollo.      .aaaaa                                                        
+                                                       olg..gla    ah    ho                                                       
+                                                      slg    glaaaah       s                                                      
+                                                      ll      olllgo       o                                                      
+                                                      ll      ol  go       g                                                      
+                                                      ll      ol  go       o                                                      
+                                                      olh     l.  s        o                                                      
+                                                      hllh  hllh  hs      sh                                                      
+                                                      glllllllh    hh    sa                                                       
+                                                     gls gllg        gllg                                                         
+                                                    .ls     aoo    oo.                                                            
+                                                    la    slllllasllllls                                                          
+                                                         .llllllllllllllg                                                         
+                                             .        ssllllllllllllllllllas        .                                             
+                                             llhhhhhallllllllllllllllllllllll.hhhhhll                                             
+                                             .llllllllllllllllllllllllllllllllllllllg                                             
+                                             slllllllllllllllllllllllllllllllllllllls                                             
+                                              .llllllllllllllllllllllllllllllllllll.                                              
+                                               glllllllllllllllgssglllllllllllllllg                                               
+                                                gllllllllllllgh    hgllllllllllllg                                                
+                                                  glllllllla          allllllllg                                                  
+                                                    hhhhh                hhhhh                                                    
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+
 </font>
       </pre>
     </td>
