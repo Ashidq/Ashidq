@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ganti link gambar di bawah ini dengan link banner yang sudah kamu unggah (misalnya di GitHub Issues atau Cloudinary) -->
-<img src="https://example.com/path-to-your-banner.png" alt="Welcome Banner" width="100%" />
+<img src="https://github.com/Ashidq/Ashidq/blob/main/Gemini_Generated_Image_glkgd5glkgd5glkg.jpg" alt="Welcome Banner" width="100%" />
 
 # ☁️ Hi there, I'm [Nama Kamu]! ✨
 ### 🚀 Exploring the digital sky, one line of code at a time.
