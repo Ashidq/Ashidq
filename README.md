@@ -54,8 +54,8 @@ Untuk menjelajahi langit digital, ini adalah beberapa peralatan utama yang serin
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashidq&show_icons=true&theme=sky&border_radius=10" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashidq&layout=compact&theme=sky&border_radius=10" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashidq&show_icons=true&title_color=008080&text_color=555555&bg_color=e0f7fa&border_color=b2ebf2&border_radius=10&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashidq&layout=compact&title_color=008080&text_color=555555&bg_color=e0f7fa&border_color=b2ebf2&border_radius=10" alt="Top Languages" height="150" />
 </div>
 
 ---
