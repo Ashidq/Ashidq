@@ -1,37 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="460" viewBox="0 0 850 460">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="480" viewBox="0 0 850 480">
   <style>
     .bg { fill: #0d1117; rx: 8px; }
-    .ascii { font-family: 'Courier New', 'Fira Code', monospace; font-size: 11px; fill: #00FF00; white-space: pre; }
-    .header { fill: #20B2AA; font-weight: bold; }
-    .label { fill: #00FF00; }
-    .val { fill: #87CEEB; }
-    .prompt { fill: #20B2AA; font-weight: bold; }
+    .term { font-family: 'Fira Code', 'Courier New', Consolas, monospace; font-size: 11px; font-weight: 500; }
+    .green { fill: #00FF00; }
+    .cyan { fill: #20B2AA; font-weight: bold; }
     .white { fill: #ffffff; }
   </style>
 
   <rect width="100%" height="100%" class="bg" />
-
-    <text x="20" y="25" class="ascii" xml:space="preserve">
-      
-                            .####.                         <tspan class="header">ashidq@github</tspan>
-                          .########.                       ---------------------------------------------
-                         .##########.                      <tspan class="label">Role:</tspan> <tspan class="val">IT Student @ ITS</tspan>
-                         .##########.                      <tspan class="label">Focus:</tspan> <tspan class="val">Cybersecurity, AIOps &amp; Metaheuristics</tspan>
-                          .########.                       <tspan class="label">Stack.Frontend:</tspan> <tspan class="val">React, Tailwind</tspan>
-                           .######.                        <tspan class="label">Stack.Backend:</tspan> <tspan class="val">Python, FastAPI, Node.js</tspan>
-                           ........                        <tspan class="label">Stack.Tools:</tspan> <tspan class="val">Git, GitHub, Docker, VS Code</tspan>
-                     .################.                    <tspan class="label">Stack.Database:</tspan> <tspan class="val">MySQL, MongoDB</tspan>
-                   .####################.                  <tspan class="label">Environment:</tspan> <tspan class="val">Linux, Zsh, Bash</tspan>
-                 .########################.                <tspan class="label">Interests:</tspan> <tspan class="val">Cybersecurity, Cloud, Metaheuristics</tspan>
-               .############################.              <tspan class="label">Contact.GitHub:</tspan> <tspan class="val">github.com/Ashidq</tspan>
-             .################################.            <tspan class="label">Contact.Email:</tspan> <tspan class="val">m.syahmi.ash23@gmail.com</tspan>
-           .####################################.          <tspan class="label">Status:</tspan> <tspan class="val">Coding &amp; Researching 🚀</tspan>
-         .########################################.        <tspan class="label">Location:</tspan> <tspan class="val">Surabaya, Indonesia</tspan>
-       .############################################.      
   
-                                                           <tspan fill="#000000">███</tspan> <tspan fill="#FF0000">███</tspan> <tspan fill="#00FF00">███</tspan> <tspan fill="#FFFF00">███</tspan> <tspan fill="#0000FF">███</tspan> <tspan fill="#FF00FF">███</tspan> <tspan fill="#00FFFF">███</tspan> <tspan fill="#FFFFFF">███</tspan>
-  
-      <tspan class="prompt">┌──(ashidq㉿github)-[~]</tspan>
-      <tspan class="prompt">└─$</tspan> <tspan class="white">Exploring the digital sky, one line of code at a time.</tspan>
-    </text>
+  <text class="term green">
+    <tspan x="20" y="1" class="cyan" xml:space="preserve">┌──(ashidq㉿github)-[~]</tspan>
+    <tspan x="20" y="17" class="cyan" xml:space="preserve">└─$ <tspan class="white">Exploring the digital sky, one line of code at a time.</tspan></tspan>
+    
+    
+    <tspan x="20" y="30" xml:space="preserve">                          .####.                         <tspan class="cyan">ashidq@github</tspan></tspan>
+    <tspan x="20" y="46" xml:space="preserve">                        .########.                       ---------------------------------------------</tspan>
+    <tspan x="20" y="62" xml:space="preserve">                       .##########.                      Role: IT Student @ ITS</tspan>
+    <tspan x="20" y="78" xml:space="preserve">                       .##########.                      Focus: Cybersecurity, AIOps &amp; Metaheuristics</tspan>
+    <tspan x="20" y="94" xml:space="preserve">                        .########.                       Stack.Frontend: React, Tailwind</tspan>
+    <tspan x="20" y="110" xml:space="preserve">                         .######.                        Stack.Backend: Python, FastAPI, Node.js</tspan>
+    <tspan x="20" y="126" xml:space="preserve">                         ........                        Stack.Tools: Git, GitHub, Docker, VS Code</tspan>
+    <tspan x="20" y="142" xml:space="preserve">                   .################.                    Stack.Database: MySQL, MongoDB</tspan>
+    <tspan x="20" y="158" xml:space="preserve">                 .####################.                  Environment: Linux, Zsh, Bash</tspan>
+    <tspan x="20" y="174" xml:space="preserve">               .########################.                Interests: Cybersecurity, Cloud, Metaheuristics</tspan>
+    <tspan x="20" y="190" xml:space="preserve">             .############################.              Contact.GitHub: github.com/Ashidq</tspan>
+    <tspan x="20" y="206" xml:space="preserve">           .################################.            Contact.Email: m.syahmi.ash23@gmail.com</tspan>
+    <tspan x="20" y="222" xml:space="preserve">         .####################################.          Status: Coding &amp; Researching 🚀</tspan>
+    <tspan x="20" y="238" xml:space="preserve">       .########################################.        Location: Surabaya, Indonesia</tspan>
+    <tspan x="20" y="254" xml:space="preserve">     .############################################.      </tspan>
+    
+    <tspan x="20" y="290" xml:space="preserve">                                                         <tspan fill="#000000">███</tspan> <tspan fill="#FF0000">███</tspan> <tspan fill="#00FF00">███</tspan> <tspan fill="#FFFF00">███</tspan> <tspan fill="#0000FF">███</tspan> <tspan fill="#FF00FF">███</tspan> <tspan fill="#00FFFF">███</tspan> <tspan fill="#FFFFFF">███</tspan></tspan>
+    
+    <tspan x="20" y="330" class="cyan" xml:space="preserve">┌──(ashidq㉿github)-[~]</tspan>
+    <tspan x="20" y="346" class="cyan" xml:space="preserve">└─$ <tspan class="white">Exploring the digital sky, one line of code at a time.</tspan></tspan>
+  </text>
 </svg>
