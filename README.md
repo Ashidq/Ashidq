@@ -1,78 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:A5D6A7&height=180&section=header&text=Habitat%20Ashidq&fontColor=ffffff&fontSize=40&desc=pelan,%20tapi%20sampai&descAlignY=62&descSize=16" />
+<!-- Ganti link gambar di bawah ini dengan link banner yang sudah kamu unggah (misalnya di GitHub Issues atau Cloudinary) -->
+<img src="https://example.com/path-to-your-banner.png" alt="Welcome Banner" width="100%" />
+
+# ☁️ Hi there, I'm [Nama Kamu]! ✨
+### 🚀 Exploring the digital sky, one line of code at a time.
+<p>
+  <a href="https://github.com/username"><img src="https://img.shields.io/badge/Status-Coding_in_the_clouds-87CEEB?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-20B2AA?style=flat-square&logo=gmail" /></a>
+</p>
+
+---
+
+👋 **Selamat datang di dunia digital saya!** Saya adalah seorang pengembang yang senang membangun hal-hal menarik dengan sentuhan kreativitas dan visual yang menyenangkan, terinspirasi oleh luasnya langit dan kemungkinan tanpa batas.
 
 </div>
 
-## 🐢 Penghuni
-
-Saya **[Nama]**, [peran] yang fokus di [domain].
-
-Sedang membangun habitat kecil berisi hal-hal yang saya rawat pelan-pelan: [1 kalimat tentang apa yang sedang dikerjakan].
-
-📍 [Kota] &nbsp;·&nbsp; 🌐 [website] &nbsp;·&nbsp; ✉️ [email]
-
----
-
-## 🪵 Isi Terarium
-
-| Zona | Isinya |
-|------|--------|
-| 💧 **Air** — bahasa utama | `[bahasa 1]` `[bahasa 2]` `[bahasa 3]` |
-| 🪵 **Kayu apung** — framework | `[framework 1]` `[framework 2]` |
-| 🪨 **Batu berjemur** — infra & tools | `[tool 1]` `[tool 2]` `[tool 3]` |
-| 🥬 **Pakan harian** — sedang dipelajari | `[yang lagi dipelajari]` |
+### 🛸 About Me
+- 🔭 **Sedang sibuk dengan:** [Tulis project atau apa yang sedang kamu pelajari saat ini, misal: Membangun aplikasi web interaktif / Belajar Cloud Computing].
+- ☁️ **Fokus Utama:** Menyukai perpaduan antara fungsionalitas (coding) dan estetika (desain & UX).
+- 🌱 **Sedang Mempelajari:** [Sebutkan teknologi baru yang sedang kamu ulik, misal: React, TypeScript, atau Go].
+- 💬 **Tanya saya tentang:** Web development, animasi, atau sekadar bertukar pikiran tentang ide-ide kreatif.
+- 📫 **Cara menghubungi saya:** Melalui [LinkedIn](link-kamu) atau email di `emailkamu@domain.com`.
 
 ---
 
-## 🏝️ Terarium yang Sudah Jadi
+### 🛠️ Tech Stack & Sky Tools
+Untuk menjelajahi langit digital, ini adalah beberapa peralatan utama yang sering saya gunakan:
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+      <br />Frontend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+      <br />Backend & DB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <br />Workflows
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma,tailwind" />
+      <br />UI & Design
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-
-<a href="https://github.com/Ashidq/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashidq&repo=REPO-1&title_color=2E7D32&icon_color=66BB6A&text_color=37474F&bg_color=F1F8E9&border_color=C5E1A5" />
-</a>
-<a href="https://github.com/Ashidq/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashidq&repo=REPO-2&title_color=2E7D32&icon_color=66BB6A&text_color=37474F&bg_color=F1F8E9&border_color=C5E1A5" />
-</a>
-
-</div>
-
-**[Nama Project 1]** — [masalah apa yang dipecahkan, satu baris]. → [demo](https://...)
-
-**[Nama Project 2]** — [masalah apa yang dipecahkan, satu baris]. → [demo](https://...)
-
-**[Nama Project 3]** — [masalah apa yang dipecahkan, satu baris]. → [demo](https://...)
-
----
-
-## 🐾 Jejak di Pasir
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashidq&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2E7D32&icon_color=66BB6A&text_color=37474F&bg_color=F1F8E9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashidq&layout=compact&langs_count=6&hide=html,css&hide_border=true&title_color=2E7D32&text_color=37474F&bg_color=F1F8E9" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ashidq&hide_border=true&background=F1F8E9&ring=2E7D32&fire=66BB6A&currStreakLabel=2E7D32&sideNums=37474F&currStreakNum=2E7D32&dates=78909C&sideLabels=37474F" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=sky&border_radius=10" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=sky&border_radius=10" alt="Top Languages" height="150" />
 </div>
 
 ---
 
-## 🌿 Ketuk Cangkangnya
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-388E3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL-KAMU)
-[![Website](https://img.shields.io/badge/Website-66BB6A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://WEBSITE-KAMU)
-
-<br>
-
-<sub>🐢 <i>Kura-kura tidak buru-buru. Tapi ia sampai.</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5D6A7,100:1B5E20&height=100&section=footer" />
-
+  <p><i>"Stay curious, keep building, and let’s make the internet a cooler place!"</i> ✈️✨</p>
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=20B2AA&style=flat-square&label=Visitors" alt="Visitor Count" />
 </div>
