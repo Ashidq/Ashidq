@@ -1,28 +1,27 @@
 <div align="center">
 
-<!-- Ganti link gambar di bawah ini dengan link banner yang sudah kamu unggah (misalnya di GitHub Issues atau Cloudinary) -->
-<img src="https://github.com/Ashidq/Ashidq/blob/main/Gemini_Generated_Image_glkgd5glkgd5glkg.jpg" alt="Welcome Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Ashidq/Ashidq/main/Gemini_Generated_Image_glkgd5glkgd5glkg.jpg" alt="Welcome Banner" width="100%" />
 
-# ☁️ Hi there, I'm [Nama Kamu]! ✨
+# ☁️ Hi there, I'm Muhammad Syahmi Ash Shidqi! ✨
 ### 🚀 Exploring the digital sky, one line of code at a time.
 <p>
   <a href="https://github.com/Ashidq"><img src="https://img.shields.io/badge/Status-Coding_in_the_clouds-87CEEB?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:m.syahmi.ash23@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-20B2AA?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
 
-👋 **Selamat datang di dunia digital saya!** Saya adalah seorang pengembang yang senang membangun hal-hal menarik dengan sentuhan kreativitas dan visual yang menyenangkan, terinspirasi oleh luasnya langit dan kemungkinan tanpa batas.
+👋 **Selamat datang di dunia digital saya!** Saya adalah seorang mahasiswa Teknologi Informasi yang berfokus pada pengembangan sistem, kecerdasan buatan, dan arsitektur cloud dengan sentuhan visual yang presisi.
 
 </div>
 
 ### 🛸 About Me
-- 🔭 **Sedang sibuk dengan:** [Tulis project atau apa yang sedang kamu pelajari saat ini, misal: Membangun aplikasi web interaktif / Belajar Cloud Computing].
-- ☁️ **Fokus Utama:** Menyukai perpaduan antara fungsionalitas (coding) dan estetika (desain & UX).
-- 🌱 **Sedang Mempelajari:** [Sebutkan teknologi baru yang sedang kamu ulik, misal: React, TypeScript, atau Go].
-- 💬 **Tanya saya tentang:** Web development, animasi, atau sekadar bertukar pikiran tentang ide-ide kreatif.
-- 📫 **Cara menghubungi saya:** Melalui [LinkedIn](link-kamu) atau email di `emailkamu@domain.com`.
+- 🔭 **Sedang sibuk dengan:** Penelitian algoritma optimasi metaheuristik (QMPSO) & pengembangan sistem real-time.
+- ☁️ **Fokus Utama:** AIOps, Cybersecurity, Cloud Computing, dan Web Development.
+- 🌱 **Sedang Mempelajari:** FastAPI, React, serta integrasi Machine Learning untuk deteksi keamanan.
+- 💬 **Tanya saya tentang:** Cloud task scheduling, web development, dan deteksi ancaman otomatis.
+- 📫 **Cara menghubungi saya:** Email di `m.syahmi.ash23@gmail.com`.
 
 ---
 
@@ -32,16 +31,16 @@ Untuk menjelajahi langit digital, ini adalah beberapa peralatan utama yang serin
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-      <br />Frontend
+      <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+      <br />Languages
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-      <br />Backend & DB
+      <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express" />
+      <br />Frameworks
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-      <br />Workflows
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+      <br />Tools & DevOps
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma,tailwind" />
@@ -52,10 +51,20 @@ Untuk menjelajahi langit digital, ini adalah beberapa peralatan utama yang serin
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashidq&show_icons=true&title_color=008080&text_color=555555&bg_color=e0f7fa&border_color=b2ebf2&border_radius=10&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashidq&layout=compact&title_color=008080&text_color=555555&bg_color=e0f7fa&border_color=b2ebf2&border_radius=10" alt="Top Languages" height="150" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashidq&show_icons=true&theme=sky&border_radius=10&count_private=true" alt="GitHub Stats" height="150" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashidq&layout=compact&theme=sky&border_radius=10" alt="Top Languages" height="150" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashidq&theme=sky&border_radius=10" alt="GitHub Streak" height="150" />
 </div>
 
 ---
