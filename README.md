@@ -5,17 +5,7 @@
     <td valign="top">
       <pre>
 <font color="#20B2AA">
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
+                                                                                                                                                                                                                                        
                                                                                                                                   
                                                                                                                                   
                                                          hhhhh      hhhhh                                                         
@@ -67,19 +57,7 @@
                                                   glllllllla          allllllllg                                                  
                                                     hhhhh                hhhhh                                                    
                                                                                                                                   
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-                                                                                                                                  
-
+                                                                                                                                                                                                                  
 </font>
       </pre>
     </td>
