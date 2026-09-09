@@ -1,32 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="290" viewBox="0 0 720 290">
   <rect width="100%" height="100%" fill="#0d1117" rx="8" />
   
-  <foreignObject x="0" y="0" width="900" height="640">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="padding: 20px;">
+  <foreignObject x="0" y="0" width="720" height="290">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="padding: 12px 16px;">
       
-      <!-- PROMPT ATAS (Line height normal / rapat) -->
-      <pre style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 11px; color: #00FF00; margin: 0 0 15px 0; line-height: 1.2; letter-spacing: 0.5px;"><span style="color: #20B2AA; font-weight: bold;">┌──(ashidq㉿github)-[~]</span>
+      <!-- PROMPT ATAS -->
+      <pre style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 10px; color: #00FF00; margin: 0 0 6px 0; line-height: 1; letter-spacing: 0px;"><span style="color: #20B2AA; font-weight: bold;">┌──(ashidq㉿github)-[~]</span>
 <span style="color: #20B2AA; font-weight: bold;">└─$</span> <span style="color: #ffffff;">fastfetch</span></pre>
 
-      <!-- ASCII FASTFETCH & PROMPT BAWAH (Line height renggang) -->
-      <pre style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 11px; color: #00FF00; margin: 0; line-height: 2; letter-spacing: 0.5px;">
-                          .####.                         <span style="color: #20B2AA; font-weight: bold;">ashidq@github</span>
-                        .########.                       ---------------------------------------------
-                       .##########.                      Role: IT Student @ ITS
-                       .##########.                      Focus: Cybersecurity, AIOps &amp; Metaheuristics
-                        .########.                       Stack.Frontend: React, Tailwind
-                         .######.                        Stack.Backend: Python, FastAPI, Node.js
-                         ........                        Stack.Tools: Git, GitHub, Docker, VS Code
-                   .################.                    Stack.Database: MySQL, MongoDB
-                 .####################.                  Environment: Linux, Zsh, Bash
-               .########################.                Interests: Cybersecurity, Cloud, Metaheuristics
-             .############################.              Contact.GitHub: github.com/Ashidq
-           .################################.            Contact.Email: m.syahmi.ash23@gmail.com
-         .####################################.          Status: Coding &amp; Researching 🚀
-       .########################################.        Location: Surabaya, Indonesia
-     .############################################.      
-
-                                                         <span style="color: #000000;">███</span> <span style="color: #FF0000;">███</span> <span style="color: #00FF00;">███</span> <span style="color: #FFFF00;">███</span> <span style="color: #0000FF;">███</span> <span style="color: #FF00FF;">███</span> <span style="color: #00FFFF;">███</span> <span style="color: #FFFFFF;">███</span>
+      <!-- ASCII ART (17 BARIS) & INFORMASI FASTFETCH -->
+      <pre style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 9.5px; color: #00FF00; margin: 0; line-height: 2; letter-spacing: 0px;">
+        .asssaaaassss.                      <span style="color: #20B2AA; font-weight: bold;">ashidq@github</span>
+      .shhhhhhhhhhhhhhs.                    ---------------------------------------------
+     .shhhhhhhhhhhhhhhhh.                   Role: IT Student @ ITS
+     ahhhhhhhhhhhhhhhhhhs                   Focus: Cybersecurity, AIOps &amp; Metaheuristics
+     shhhhhhhhhhhhhhhhhhs.                  Frontend: React, Tailwind
+   as.asshhhhhhhhhhhhssa.sa.                Backend: Python, FastAPI, Node.js
+ shhsa                  .shhs.              Tools: Git, GitHub, Docker, VS Code
+ ashhhhsssssa....assssshhhhss               Database: MySQL, MongoDB
+    .aasshhhhhhhhhhhhhssa.                  Environment: Linux, Zsh, Bash
+        .sssa    .sss.                      Interests: Cybersecurity, Cloud, Metaheuristics
+       .s   .h. sa    aa                    Contact: github.com/Ashidq | m.syahmi.ash23@gmail.com
+       .s.  as  ss    sa                    Status: Coding &amp; Researching 🚀
+       saass.    .asa                       Location: Surabaya, Indonesia
+      .  .ashhssshss.             
+ ssa.ashhhhhhhhhhhhhhhhss.ass               <span style="color: #000000;">███</span> <span style="color: #FF0000;">███</span> <span style="color: #00FF00;">███</span> <span style="color: #FFFF00;">███</span> <span style="color: #0000FF;">███</span> <span style="color: #FF00FF;">███</span> <span style="color: #00FFFF;">███</span> <span style="color: #FFFFFF;">███</span>
+  shhhhhhhhhhhssshhhhhhhhhhs.     
+    .assssa.      .asssssa        
 
 <span style="color: #20B2AA; font-weight: bold;">┌──(ashidq㉿github)-[~]</span>
 <span style="color: #20B2AA; font-weight: bold;">└─$</span> <span style="color: #ffffff;">Exploring the digital sky, one line of code at a time.</span>
