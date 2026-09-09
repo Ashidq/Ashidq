@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
   <rect width="100%" height="100%" fill="#0d1117" rx="8" />
   
-  <foreignObject x="0" y="0" width="900" height="450">
+  <foreignObject x="0" y="0" width="900" height="500">
     <div xmlns="http://www.w3.org/1999/xhtml" style="padding: 20px;">
       
       <!-- PROMPT ATAS (Line height normal / rapat) -->
