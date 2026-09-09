@@ -5,46 +5,18 @@
     <td valign="top">
       <pre>
 <font color="#20B2AA">
-                                                                                                                                        
-                                            aaa     aaa                                            
-                                          olllllllllllllo                                          
-                                         lllllllllllllllll                                         
-                                        glllllllllllllllllg                                        
-                                        lllllllllllllllllllh                                       
-                                       allllllllllllllllllla                                       
-                                       lllllllllllllllllllll                                       
-                                       lllllllllllllllllllll                                       
-                                       lllllllllllllllllllll                                       
-                                      glllllllllllllllllllllo                                      
-                                      olllllllllllllllllllllo                                      
-                                     soglllllllllllllllllllgos                                     
-                                   hlll hslllllllllllllllsh lllh                                   
-                                  sllll        gooogh       lllls                                  
-                                  lllllo                   .lllll                                  
-                                  lllllllos             holllllll                                  
-                                  hllllllllllllllollllllllllllllh                                  
-                                    olllllllllllllllllllllllllo                                    
-                                      allllllllllllllllllllla                                      
-                                          ...olllllllo...                                          
-                                           ollg     gssa                                           
-                                          lo  ol   .h   a                                          
-                                         lg    olll.     o                                         
-                                         la    go og     g                                         
-                                         la    go o.     o                                         
-                                         al   hl         a                                         
-                                         .llllla   a    g                                          
-                                        .l hgg       ggh                                           
-                                       sl    gll. .llg                                             
-                                            lllllllllll                                            
-                                  o      aglllllllllllllga      o                                  
-                                  lloggollllllllllllllllllloggoll                                  
-                                  hlllllllllllllllllllllllllllllh                                  
-                                   glllllllllllllllllllllllllllg                                   
-                                    llllllllllllh hllllllllllll                                    
-                                     alllllllgs     sgllllllla                                     
-                                        aaah           haaa                                        
-                                                                                                                                                                                             
-                                                                                                                                       
+     .---.     .---.
+    /     \___/     \
+   |  (o)       (o)  |
+   /  (___</___)  \
+  |   [=======]   |
+   \    `---'    /
+    '-----------'
+     /         \
+    /           \
+  .'  _.._ ._.._ '.
+ (   /    \\    \  )
+  '-'      ''    '-'
 </font>
       </pre>
     </td>
